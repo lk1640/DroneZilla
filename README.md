@@ -1,2 +1,2 @@
-# QRC_Drone
-A repo to hold the hardware, electronics, &amp; software for QRC's drone project
+# DroneZilla
+A repo to hold the hardware, electronics, &amp; software for the Mothra I platform drone project
